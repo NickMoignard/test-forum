@@ -31,3 +31,9 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+# neo4j
+.data
+.logs
+.conf
+.plugins
